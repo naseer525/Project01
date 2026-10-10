@@ -1,0 +1,8 @@
+# Do not publish personal student information
+student.csv
+
+# Python cache and editor files
+__pycache__/
+*.pyc
+.vscode/
+.venv/
